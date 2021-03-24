@@ -31,3 +31,4 @@ git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-
 git clone https://github.com/tianiue/luci-app-bypass.git package/luci-app-bypass
 git clone https://github.com/esirplayground/luci-app-LingTiGameAcc.git package/luci-app-LingTiGameAcc
 git clone https://github.com/esirplayground/LingTiGameAcc.git package/LingTiGameAcc
+git clone https://github.com/Hyy2001X/luci-app-autoupdate.git package/luci-app-autoupdate
