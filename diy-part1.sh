@@ -33,4 +33,3 @@ git clone https://github.com/esirplayground/luci-app-LingTiGameAcc.git package/l
 git clone https://github.com/esirplayground/LingTiGameAcc.git package/LingTiGameAcc
 git clone https://github.com/Hyy2001X/luci-app-autoupdate.git package/luci-app-autoupdate
 git clone https://github.com/project-lede/luci-app-godproxy.git package/luci-app-godproxy
-git clone https://github.com/sirpdboy/netspeedtest.git package/netspeedtest
